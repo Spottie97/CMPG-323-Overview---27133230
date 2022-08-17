@@ -1,5 +1,17 @@
 # CMPG-323-Overview---27133230
 ## Branching Strategy
+ - Phase 1: Project 1 will Developed and Features edited.
+ - Phase 1.1: Project 1 will be pushe to Main.
+ - Phase 2: Development of API for Project 2.
+ - Phase 2.1: Hotfix and Features evaluations if needed.
+ - Phase 2.2: Check to see if everything is in working order.
+ - Phase 2.3: Push to Project 2 Main Repo.
+ - Phase 3: Creation of Web App
+ - Phase 3.1: Planning and Development of App.
+ - Phase 3.2: Code/Hotfix/Feature evaluation if needed.
+ - Phase 3.3: Code/Hotfix/Feature evaluation if needed.
+ - Phase 3.4: Push to Main
+
 
 ## Project and Repository Structure
  - **Project 1 Repo:** 
@@ -20,3 +32,8 @@
  - Project 3: Web App Project
  - Project 4: RPA & Testing 
  - Project 5: Reporting
+
+##Gitignore file uses
+ - For all the repositories that I will be using in this project, the .gitignore file will be used to tell Git which files or folders to ignore within each project/repo.
+##Storage of Credentials
+ - Seeing as this project and repository is a public one, the sharing and storing of credentials within it means that anyone can have access to the information and data. thus it isn't recommended or rather adviced to store any credentials here.
