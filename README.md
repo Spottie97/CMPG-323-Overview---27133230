@@ -49,7 +49,7 @@
  - Project 4: RPA & Testing 
  - Project 5: Reporting
 
-##Gitignore file uses
+## Gitignore file uses
  - For all the repositories that I will be using in this project, the .gitignore file will be used to tell Git which files or folders to ignore within each project/repo.
-##Storage of Credentials
+## Storage of Credentials
  - Seeing as this project and repository is a public one, the sharing and storing of credentials within it means that anyone can have access to the information and data. thus it isn't recommended or rather adviced to store any credentials here.
