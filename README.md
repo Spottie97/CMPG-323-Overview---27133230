@@ -1,16 +1,28 @@
 # CMPG-323-Overview---27133230
 ## Branching Strategy
+**Project 1:**
  - Phase 1: Project 1 will Developed and Features edited.
  - Phase 1.1: Project 1 will be pushe to Main.
+**Project 2:**
  - Phase 2: Development of API for Project 2.
  - Phase 2.1: Hotfix and Features evaluations if needed.
  - Phase 2.2: Check to see if everything is in working order.
  - Phase 2.3: Push to Project 2 Main Repo.
+**Project 3:**
  - Phase 3: Creation of Web App
  - Phase 3.1: Planning and Development of App.
  - Phase 3.2: Code/Hotfix/Feature evaluation if needed.
  - Phase 3.3: Code/Hotfix/Feature evaluation if needed.
  - Phase 3.4: Push to Main
+**Project 4:**
+ - Phase 4: Testing and RPA 
+ - Phase 4.1: Testing
+ - Phase 4.2: Hotfix and Debugging
+ - Phase 4.3: Apply Fixes
+**Project 5:**
+ - Phase 5: Reporting
+ - Phase 5.1: Feedback and Evaluation
+
 
 
 ## Project and Repository Structure
