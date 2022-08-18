@@ -1,4 +1,4 @@
-# CMPG-323-Overview---27133230
+https://github.com/Spottie97/Project-1# CMPG-323-Overview---27133230
 This is my CMPG 323 semester project overview repo. It will be used to layout the schedule I will be following throught the semester to achieve my end result which is finishing all 5 Projects. These projects will all be linked to this repo as reference. Below are the guidlines I will be following.
 
 ## Branching Strategy
@@ -45,7 +45,7 @@ This is my CMPG 323 semester project overview repo. It will be used to layout th
    
  **All of these repositories will be linked or rather complement eachother through the <a href="https://github.com/users/Spottie97/projects/2" target="_blank">project </a>**
 ## List of Repositories
- - Project 1: <a href="https://github.com/Spottie97/CMPG-323-Overview---27133230" target="_blank" target="_blank">Agile & SCRUM </a>
+ - Project 1: <a href="https://github.com/Spottie97/Project-1" target="_blank" target="_blank">Agile & SCRUM </a>
  - Project 2: API Development
  - Project 3: Web App Project
  - Project 4: RPA & Testing 
