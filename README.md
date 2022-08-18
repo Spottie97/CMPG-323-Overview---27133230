@@ -2,7 +2,7 @@
 ## Branching Strategy
 **Project 1:**
  - Phase 1: Project 1 will Developed and Features edited.
- - Phase 1.1: Project 1 will be pushe to Main.
+ - Phase 1.1: Project 1 will be pusheD to Main.
 
 **Project 2:**
  - Phase 2: Development of API for Project 2.
